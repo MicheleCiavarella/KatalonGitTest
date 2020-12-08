@@ -4,3 +4,5 @@
 /.settings/
 /.classpath
 .svn/
+$ cd $projectDir
+$ git rm -r --cached settings
